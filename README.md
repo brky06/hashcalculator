@@ -55,3 +55,4 @@ hashcalculator/
         utils/
             hash_utils.py
 ```
+Bu proje hakkında herhangi bir sorunuz varsa, lütfen [brky06](https://github.com/brky06) ile iletişime geçin.
